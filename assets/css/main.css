@@ -3191,14 +3191,15 @@ input, select, textarea {
 	#banner {
 		background-color: #324150;
 		/* background-image: url("images/banner.svg"); */
-        background-image: url("images/banner_2.png");
-		background-position: 25% bottom;
+        background-image: url("images/Pleiades_large.jpg");
+		/* background-position: 25% bottom; */
+        background-position: 95% bottom;
 		background-repeat: repeat-x;
 		/* background-size: 1500px 300px; */
         background-size: 1500px 300px;
 		color: #fff;
 		/* padding: 16em 0 14em 0; */
-        padding: 16em 0 10em 0;
+        padding: 16em 0 14em 0;
 		text-align: center;
 	}
 
