@@ -3191,7 +3191,7 @@ input, select, textarea {
 	#banner {
 		background-color: #324150;
 		/* background-image: url("images/banner.svg"); */
-        background-image: url("images/Pleiades_large_4.png");
+        background-image: url("images/banner_2.png");
 		/* background-position: 25% bottom; */
         background-position: 15% bottom;
 		background-repeat: repeat-x;
@@ -3199,7 +3199,7 @@ input, select, textarea {
         background-size: 1500px 300px;
 		color: #fff;
 		/* padding: 16em 0 14em 0; */
-        padding: 16em 0 5em 0;
+        padding: 8em 0 5em 0;
 		text-align: center;
 	}
 
