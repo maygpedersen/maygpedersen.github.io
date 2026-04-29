@@ -3338,7 +3338,8 @@ input, select, textarea {
 			#banner {
 				/* background-size: 900px 180px; */
                 background-size: 900px 80px;
-				padding: 10em 0 8em 0;
+				/* padding: 10em 0 8em 0; */
+                padding: 10em 0 3em 0;
 			}
 
 				#banner h2 {
