@@ -3191,7 +3191,7 @@ input, select, textarea {
 	#banner {
 		background-color: #324150;
 		/* background-image: url("images/banner.svg"); */
-        background-image: url("images/banner_2.png");
+        /* background-image: url("images/banner_2.png"); */
         /* background-image: url("images/Pleiades_large_5.png"); */
         /* background-position: 25% bottom;*/
         background-position: 5% bottom;
