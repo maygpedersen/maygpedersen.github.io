@@ -3199,8 +3199,8 @@ input, select, textarea {
 		/* background-size: 1500px 300px; */
         background-size: cover;
 		color: #fff;
-		padding: 16em 0 14em 0;
-        /* padding: 8em 0 5em 0; */
+        /* padding: 16em 0 14em 0; */
+        padding: 0em 0 0em 0;
 		text-align: center;
 	}
 
