@@ -3296,7 +3296,7 @@ input, select, textarea {
 				/* background-size: 1125px 225px; */
                 background-size: 1125px 125px;
 				/* padding: 12em 0 10em 0; */
-                padding: 1em 0 2em 0;
+                padding: 7em 0 0em 0;
 			}
 
 	}
@@ -3341,7 +3341,8 @@ input, select, textarea {
                 background-size: 900px 80px;
 				/* padding: 10em 0 8em 0; */
                 /* padding: 10em 0 3em 0; */
-                padding: 8em 2em;
+                /* padding: 8em 2em; */
+                padding: 7em 0 0em 0;
 			}
 
 				#banner h2 {
@@ -3448,7 +3449,8 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 8em 2em;
+				/* padding: 8em 2em; */
+                padding: 7em 0 0em 0;
 			}
 
 		/* Contact */
