@@ -3222,6 +3222,7 @@ input, select, textarea {
 			line-height: 1.25em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
+            text-align: center;
 		}
 
 		#banner p {
