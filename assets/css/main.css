@@ -135,9 +135,7 @@ input, select, textarea {
 
 
 
-    #normal p {
-        text-align: left;
-    }
+
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #555555;
@@ -3230,6 +3228,7 @@ input, select, textarea {
 			color: #87b885;
 			font-size: 2em;
 			margin-bottom: 1.75em;
+            text-align: center;
 		}
 
 		#banner input[type="submit"].alt,
